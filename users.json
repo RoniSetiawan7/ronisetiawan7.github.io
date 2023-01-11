@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "accountNumber": "6789012345678",
+    "bank": "Bank Rakyat Indonesia",
+    "nik": "1234567890",
+    "name": "Sora Ibrahim",
+    "phone": "+62858888877",
+    "birth": "1995-12-10",
+    "email": "sora@mail.com",
+    "username": "sora55",
+    "password": "2222",
+    "mpin": "654321",
+    "balance": 100000000
+  }
+]
