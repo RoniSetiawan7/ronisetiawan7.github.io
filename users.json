@@ -13,4 +13,18 @@
     "mpin": "654321",
     "balance": 100000000
   }
+  {
+    "id": 2,
+    "accountNumber": "1234567890",
+    "bank": "Bank Central Asia",
+    "nik": "0987654321",
+    "name": "Joko Susanto",
+    "phone": "+62857777788",
+    "birth": "1990-12-10",
+    "email": "joko@mail.com",
+    "username": "joko55",
+    "password": "1111",
+    "mpin": "123456",
+    "balance": 200000000
+  }
 ]
